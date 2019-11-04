@@ -1,0 +1,13 @@
+For input in BST and AVL:
+
+first line is number of elements
+Next line is the elements
+
+Shows Inorder Traversal
+
+Then Asks which to delete
+Then show inorder traversal
+
+
+For Stack: 
+Sample functions have been written in main already
